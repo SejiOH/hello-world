@@ -3,7 +3,7 @@
 Hello, world.
 
 I am Seji OH, a data scientist in South Korea.
-I love exploring knowledge and reading a lot of books.
+I love exploring knowledge in various fields and reading a lot of books.
 
 This GitHub repositories will be places for my personal projects
 to improve my skills and search for a job or further (hopefully).
